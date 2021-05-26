@@ -10,3 +10,18 @@
 # Experiences
 
 * Learnt alot of stuff along the way of my coding journey. I am currently developing my portfolio website to give more detail and background of my programming voyage! I will be providing the link to this README.md file once I'm done.
+
+## 🌊 how i function:
+```javascript
+function sleep(hours) {
+
+  if (hours < 8) {
+    cry;
+    attitude = groggy;
+  }
+  else {
+    attitude = happy;
+  }
+
+sleep(12);
+```
