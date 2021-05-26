@@ -1,4 +1,4 @@
-# Welcome!
+# :sparkles: Welcome! :sparkles:
 
 ## About / Synopsis
 
