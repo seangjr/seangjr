@@ -4,7 +4,7 @@
 
 * My name is Sean!
 * I am currently a software engineering student in university.
-* Currently studying JS Frameworks like React / Angular. Aspiring web developer.
+* Currently studying JS Frameworks like React / Angular. Currently web developing a project.
 
 # Experiences
 
