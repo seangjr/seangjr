@@ -4,7 +4,7 @@
 
 * My name is Sean!
 * I am currently a software engineering student in university.
-* Programming languages learnt: **Java SE**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS: Bootstrap, Tailwind**, **JS vanilla**
+* Programming languages learnt: **Java SE**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS: Bootstrap / Tailwind**, **JS vanilla**
 * Currently studying JS Frameworks like React / Angular. Currently web developing a project.
 
 # Experiences
