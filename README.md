@@ -16,7 +16,7 @@
 function sleep(hours) {
 
   if (hours < 8) {
-    cry;
+    cry();
     attitude = groggy;
   }
   else {
@@ -25,3 +25,6 @@ function sleep(hours) {
 
 sleep(12);
 ```
+
+# THANKS FOR VISITING! 🌌
+![goodbye](https://i.pinimg.com/originals/b2/63/1d/b2631d34e97f9d1f87c63d5d8a40e6c5.gif)
