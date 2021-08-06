@@ -16,7 +16,6 @@
 function sleep(hours) {
 
   if (hours < 8) {
-    cry();
     attitude = mood.state.groggy;
   }
   else {
