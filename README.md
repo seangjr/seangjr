@@ -5,7 +5,6 @@
 * I am currently a software engineering student in university.
 * Programming languages learnt: **Java SE**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS: Bootstrap / Tailwind**, **JS vanilla**
 * Frameworks currently using/learning: **React**, **Next.js**, **Gatsby**
-* Currently studying JS Frameworks like React / Angular. Currently web developing a project.
 * **IDEs currently in use**: VSCode all the way, Atom sometimes.
 
 # Experiences
@@ -18,13 +17,19 @@ function sleep(hours) {
 
   if (hours < 8) {
     cry();
-    attitude = groggy;
+    attitude = mood.state.groggy;
   }
   else {
-    attitude = happy;
+    attitude = mood.state.happy;
   }
 
 sleep(12);
+var mood = {
+  state: [
+    happy, groggy
+  ]
+}
+var attitude;
 ```
 
 # THANKS FOR VISITING! 🌌
