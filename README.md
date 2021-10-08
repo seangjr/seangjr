@@ -1,15 +1,15 @@
 # :sparkles: Welcome! :sparkles:
 
-## About / Synopsis
+## About
 
 * I am currently a software engineering student in university.
-* Programming languages learnt: **Java SE**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS: Bootstrap / Tailwind**, **JS vanilla**
-* Frameworks currently using/learning: **React**, **Next.js**, **Gatsby**
-* **IDEs currently in use**: VSCode all the way, Atom sometimes.
+* Programming languages learnt: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS: Bootstrap**, **JS**
+* Frameworks currently using: **React**, **Gatsby**, **Sass**
+* Vim, VS
 
 # Experiences
 
-* Learnt alot of stuff along the way of my coding journey. I am currently developing my portfolio website to give more detail and background of my programming voyage! I will be providing the link to this README.md file once I'm done.
+* Literally programming 2h a day since **March 2021**
 
 ## 🌊 how my body works:
 ```javascript
