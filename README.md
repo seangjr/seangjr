@@ -2,14 +2,14 @@
 
 ## About
 
-* I am currently a software engineering student in university.
+* Software engineering student in university.
 * Programming languages: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS**, **JS**
 * Frameworks: **React**, **Next**, **Sass**
-* Tools: nVim, Figma, Adobe CC
+* Tools: **nVim**, **Figma**, **Adobe CC**
 
-* OS build: Arch, linux-lts kernel, suckless dwm with rofi and dwmbar
-* Term build: fish shell, tmux with alacritty, tide fish shell prompt
-* nVim build: autopairs, lsp, defx file explorer, treesitter, emmet, ultisnips. colorscheme: sonokai
+* OS build: **Arch**, **linux-lts kernel**, **suckless dwm** with **rofi** and **dwmbar**
+* Term build: **fish shell**, **tmux with alacritty**, **tide fish shell prompt**
+* nVim build: **autopairs**, **lsp**, **defx file explorer**, **treesitter**, **emmet**, **ultisnips**. colorscheme: **sonokai**
 
 # Experiences
 
