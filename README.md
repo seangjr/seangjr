@@ -1,5 +1,7 @@
 # :sparkles: Welcome! :sparkles:
 
+![sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=szeanx&show_icons=true&theme=onedark)
+
 ## About
 
 * Software engineering student in university.
@@ -15,7 +17,7 @@
 
 * Programming everyday since **March 2021**
 
-## 🌊:
+## 🌊
 ```javascript
 function sleep(hours) {
 
@@ -36,5 +38,3 @@ var attitude;
 ```
 
 # THANKS FOR VISITING! 🌌
-![sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=szeanx&show_icons=true&theme=onedark)
-
