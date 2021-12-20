@@ -6,7 +6,7 @@
 
 * Software engineering student in university.
 * Programming languages: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS**, **JS**, **TS**
-* Frameworks: **React**, **Next**, **Sass**
+* Frameworks: **React**, **Next**, **Sass**, **TailwindCSS**, **Styled Components**, **ChakraUI**
 * Tools: **nVim**, **Figma**, **Adobe CC**
 
 * OS build: **Arch**, **linux-lts kernel**, **suckless dwm** with **rofi** and **dwmbar**
