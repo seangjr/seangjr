@@ -3,7 +3,7 @@
 ## About
 
 * Software engineering student in university.
-* Programming languages: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS**, **JS**
+* Programming languages: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS**, **JS**, **TS**
 * Frameworks: **React**, **Next**, **Sass**
 * Tools: **nVim**, **Figma**, **Adobe CC**
 
@@ -36,4 +36,4 @@ var attitude;
 ```
 
 # THANKS FOR VISITING! 🌌
-![goodbye](https://i.pinimg.com/originals/b2/63/1d/b2631d34e97f9d1f87c63d5d8a40e6c5.gif)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=szeanx)](https://github.com/anuraghazra/github-readme-stats)
