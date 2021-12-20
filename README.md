@@ -36,4 +36,5 @@ var attitude;
 ```
 
 # THANKS FOR VISITING! 🌌
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=szeanx)](https://github.com/anuraghazra/github-readme-stats)
+![sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=szeanx&show_icons=true&theme=onedark)
+
