@@ -3,15 +3,15 @@
 ## About
 
 * I am currently a software engineering student in university.
-* Programming languages learnt: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS: Bootstrap**, **JS**
-* Frameworks currently using: **React**, **Gatsby**, **Sass**
-* Vim, VS
+* Programming languages: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS**, **JS**
+* Frameworks: **React**, **Next**, **Sass**
+* Tools: nVim, Figma, Adobe CC
 
 # Experiences
 
-* Literally programming 2h a day since **March 2021**
+* Programming 2h a day since **March 2021**
 
-## 🌊 how my body works:
+## 🌊:
 ```javascript
 function sleep(hours) {
 
@@ -21,12 +21,12 @@ function sleep(hours) {
   else {
     attitude = mood.state.happy;
   }
-
+}
 sleep(12);
 var mood = {
-  state: [
+  state: {
     happy, groggy
-  ]
+  }
 }
 var attitude;
 ```
