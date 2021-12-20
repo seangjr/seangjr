@@ -7,9 +7,13 @@
 * Frameworks: **React**, **Next**, **Sass**
 * Tools: nVim, Figma, Adobe CC
 
+* OS build: Arch, linux-lts kernel, suckless dwm with rofi and dwmbar
+* Term build: fish shell, tmux with alacritty, tide fish shell prompt
+* nVim build: autopairs, lsp, defx file explorer, treesitter, emmet, ultisnips. colorscheme: sonokai
+
 # Experiences
 
-* Programming 2h a day since **March 2021**
+* Programming everyday since **March 2021**
 
 ## 🌊:
 ```javascript
