@@ -11,7 +11,7 @@
 
 * OS build: **Arch**, **linux-lts kernel**, **suckless dwm** with **rofi** and **dwmbar**
 * Term build: **fish shell**, **tmux with alacritty**, **tide fish shell prompt**
-* nVim build: **autopairs**, **lsp**, **defx file explorer**, **treesitter**, **emmet**, **ultisnips**. colorscheme: **sonokai**
+* nVim build: **autopairs**, **lsp**, **defx file explorer**, **treesitter**, **emmet**, **ultisnips**. colorscheme: **[onedark pro](https://github.com/navarasu/onedark.nvim)**
 
 # Experiences
 
