@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/szeanx)  
 ### hi there 👋, my name is **Sean**!
 #### Development / Design / Production
 ![Development / Design / Production](https://i.ibb.co/T0mPtPS/Black-and-White-Minimalist-Financial-Analyst-Linkedin-Banner.png)
@@ -14,5 +15,3 @@ skills: **React / Python / HTML / CSS**
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/szeanx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg' alt='instagram' height='32'>](https://www.instagram.com/awitsean/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googlechrome.svg' alt='website' height='32'>](https://seanrel.codes)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szeanx)  
-
-![Profile views](https://gpvc.arturio.dev/szeanx)  
