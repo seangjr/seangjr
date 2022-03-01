@@ -1,40 +1,18 @@
-# :sparkles: Welcome! :sparkles:
+### Hi there 👋, my name is **Sean**!
+#### Development / Design / Production
+![Development / Design / Production](https://i.ibb.co/T0mPtPS/Black-and-White-Minimalist-Financial-Analyst-Linkedin-Banner.png)
 
-![sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=szeanx&show_icons=true&theme=onedark)
+I am a software engineer student in university, and I like *dogs* (turtles too!)
 
-## About
+Skills: React / Python / HTML / CSS
 
-* Software engineering student in university.
-* Programming languages: **Java 8**, **Python 3**, **C#**, **C++/C**, **HTML5**, **CSS**, **JS**, **TS**
-* Frameworks: **React**, **Next**, **Sass**, **TailwindCSS**, **Styled Components**, **ChakraUI**
-* Tools: **nVim**, **Figma**, **Adobe CC**
+- 🔭 I’m currently working on school projects and a real estate website with headless CMS! 
+- 🌱 I’m currently learning C/C++ 
+- ⚡ Fun fact: the singular word for "spaghetti" is "spaghetto" 
 
-* OS build: **Arch**, **linux-lts kernel**, **suckless dwm** with **rofi** and **dwmbar**
-* Term build: **fish shell**, **tmux with alacritty**, **tide fish shell prompt**
-* nVim build: **autopairs**, **lsp**, **defx file explorer**, **treesitter**, **emmet**, **ultisnips**. colorscheme: **[onedark pro](https://github.com/navarasu/onedark.nvim)**
 
-# Experiences
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/szeanx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/awitsean/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://seanrel.codes)  
 
-* Programming everyday since **March 2021**
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szeanx)  
 
-## 🌊
-```javascript
-function sleep(hours) {
-
-  if (hours < 8) {
-    attitude = mood.state.groggy;
-  }
-  else {
-    attitude = mood.state.happy;
-  }
-}
-sleep(12);
-var mood = {
-  state: {
-    happy, groggy
-  }
-}
-var attitude;
-```
-
-# THANKS FOR VISITING! 🌌
+![Profile views](https://gpvc.arturio.dev/szeanx)  
