@@ -11,7 +11,7 @@ skills: React / Python / HTML / CSS
 - ⚡ fun fact: the singular word for "spaghetti" is "spaghetto" 
 
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/szeanx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/awitsean/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://seanrel.codes)  
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/szeanx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg' alt='instagram' height='32'>](https://www.instagram.com/awitsean/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googlechrome.svg' alt='website' height='32'>](https://seanrel.codes)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szeanx)  
 
