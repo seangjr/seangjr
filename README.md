@@ -1,6 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/szeanx)  
 ### hi there 👋, my name is **Sean**!
-#### Development / Design / Production
 ![Development / Design / Production](https://i.ibb.co/T0mPtPS/Black-and-White-Minimalist-Financial-Analyst-Linkedin-Banner.png)
 
 i am a software engineer student in university, and I like *dogs* (turtles too!)
