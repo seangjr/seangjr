@@ -9,4 +9,4 @@ Skills: **HTML CSS Javascript React Next.js Java Python**
 - 🔭 Working on school projects and freelance projects. 
 - 🌱 Learning *Java/Spring Boot*
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szeanx)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=seangjr)  
