@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/szeanx)  
 ### 👋
 
-Skills: **HTML CSS Javascript React Next.js Java Python**
+Skills: **Fullstack Web, Back-end Operations**
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=seangjr)  
