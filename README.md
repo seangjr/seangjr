@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/szeanx)  
+![Profile views](https://gpvc.arturio.dev/seangjr)  
 ### 👋
 
 Skills: **Fullstack Web, Back-end Operations, Databases**
