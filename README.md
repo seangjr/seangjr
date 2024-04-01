@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/seangjr)  
+![](https://komarev.com/ghpvc/?username=seangjr&abbreviated=true)
 ### 👋
 
 Skills: **Fullstack Web, Back-end Operations, Databases**
