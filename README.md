@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=seangjr&abbreviated=true)
 ### 👋
 
-Skills: **Fullstack Web, Back-end Operations, Databases**
+Skills: **Full Stack Web, Back-end Operations**
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=seangjr)  
